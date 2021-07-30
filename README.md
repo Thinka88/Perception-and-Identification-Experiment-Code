@@ -2,7 +2,7 @@
 
 This repository contains a replicated perception and identification experiment.
 
-link zu paper einfügen
+The link for the original study can be found [here]()
 
 
 
