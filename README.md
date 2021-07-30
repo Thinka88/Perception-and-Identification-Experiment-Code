@@ -1,10 +1,10 @@
 # Perception and Identification Experiment
 
-This repository contains a replicated perception and identification experiment as well as all our collected data, analysis and writing.
+This repository contains a replicated perception and identification experiment.
 
 link zu paper einfügen
 
-If you just want to access the code of the implemented experiment, please follow this link [Code Repo]
+
 
 ## Experiment
 
@@ -22,3 +22,5 @@ This experiment was built using [_magpie](https://magpie-ea.github.io/magpie-sit
 ## Running the Experiment
 
 Online Link: [here]()
+
+Offline: Clone the repository, run `npm install` and open `index.html`.
