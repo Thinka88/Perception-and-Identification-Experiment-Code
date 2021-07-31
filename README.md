@@ -4,7 +4,7 @@ This repository contains a replicated perception and identification experiment.
 
 Zhao, Jiaying & Hahn, Ulrike & Osherson, Daniel. (2014). Perception and Identification of Random Events. Journal of experimental psychology. Human perception and performance. 40. 10.1037/a0036816.
 
-The link for the original study can be found [here](https://www.researchgate.net/publication/262265764_Perception_and_Identification_of_Random_Events)
+The link for the original study can be found [here](https://doi.org/10.1037/a0036816)
 
 
 
