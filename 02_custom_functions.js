@@ -101,12 +101,12 @@ function generate_trial_data(){
                 }
 
 
-                expected = 'horizontal'
+                expected = 'vertical'
                 if(Math.random()<0.5){
                     ctx.translate(canvas.width/2,canvas.height/2);
                     ctx.rotate(90*Math.PI/180)
                     ctx.drawImage(canvas,-canvas.width/2,-canvas.width/2);
-                    expected = 'vertical'
+                    expected = 'horizontal'
                 }
 
                 var tempCanvas=document.createElement("canvas");
