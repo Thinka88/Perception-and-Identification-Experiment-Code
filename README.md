@@ -23,6 +23,6 @@ This experiment was built using [_magpie](https://magpie-ea.github.io/magpie-sit
 
 ## Running the Experiment
 
-Online Link: [here](https://perception-and-identification-pilot.netlify.app)
+Online Link: [here](https://perception-and-identification-main.netlify.app)
 
 Offline: Clone the repository, run `npm install` and open `index.html`.
