@@ -22,12 +22,12 @@ $("document").ready(function() {
         ],
         // Here, you can specify all information for the deployment
         deploy: {
-            experimentID: "276",
+            experimentID: "271",
             serverAppURL: "https://magpie-demo.herokuapp.com/api/submit_experiment/",
             // Possible deployment methods are:
             // "debug" and "directLink"
             // As well as "MTurk", "MTurkSandbox" and "Prolific"
-            deployMethod: "directLink",
+            deployMethod: "debug",
             contact_email: "ktrant@uos.de",
             //prolificURL: "https://app.prolific.ac/submissions/complete?cc=SAMPLE1234"
         },
@@ -35,7 +35,8 @@ $("document").ready(function() {
         progress_bar: {
             in: [
                 // list the view-names of the views for which you want a progress bar
-                coin == 'discrimination' ? discrimination.name : identification.name,
+                coin == 'discrimination' ? discrimination_practice.name : identification_practice.name,
+                coin == 'discrimination' ? discrimination_main.name : identification_main.name,
             ],
              // Possible styles are "default", "separate" and "chunks"
             style: "separate",
